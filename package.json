@@ -1,0 +1,31 @@
+{
+  "name": "torontier-backend",
+  "version": "1.0.0",
+  "description": "토론티어 백엔드",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon app"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SWIA-WiseMan/DebateTier-Backend.git"
+  },
+  "author": "yerim216",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/SWIA-WiseMan/DebateTier-Backend/issues"
+  },
+  "homepage": "https://github.com/SWIA-WiseMan/DebateTier-Backend#readme",
+  "dependencies": {
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "express": "^4.18.2",
+    "express-session": "^1.17.3",
+    "morgan": "^1.10.0",
+    "mysql2": "^3.6.3",
+    "sequelize": "^6.35.1"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1"
+  }
+}
