@@ -1,9 +1,9 @@
 {
   "development": {
-    "username": "root",
-    "password": null,
-    "database": "database_development",
-    "host": "127.0.0.1",
+    "username": "yerim",
+    "password": "kss10056414",
+    "database": "toron_tier",
+    "host": "13.209.133.64",
     "dialect": "mysql"
   },
   "test": {
